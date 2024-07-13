@@ -1,1 +1,1 @@
-# RT-Spam-Detection
+Instant Spam Identification via Logistic Regression
